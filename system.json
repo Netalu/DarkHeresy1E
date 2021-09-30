@@ -37,13 +37,13 @@
           "path": "lang/en.json"
         }
       ],
-      "socket": false,
-      "initiative": "1d10",
-      "gridDistance": 10,
-      "gridUnits": "ft",
-      "primaryTokenAttribute": "resources.wounds",
-      "secondaryTokenAttribute": "resources.ammo",
-      "url": "https://github.com/Netalu/DarkHeresy1E",
+  "socket": false,
+  "initiative": "1d10",
+  "gridDistance": 10,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "resources.wounds",
+  "secondaryTokenAttribute": "resources.ammo",
+  "url": "https://github.com/Netalu/DarkHeresy1E",
   "manifest": "https://github.com/Netalu/DarkHeresy1E/system.json",
   "download": "https://github.com/Netalu/DarkHeresy1E/archive/refs/heads/main.zip"
 }
