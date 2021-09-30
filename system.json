@@ -43,7 +43,7 @@
       "gridUnits": "ft",
       "primaryTokenAttribute": "resources.wounds",
       "secondaryTokenAttribute": "resources.ammo",
-      "url": "",
-  "manifest": "",
-  "download": ""
+      "url": "https://github.com/Netalu/DarkHeresy1E",
+  "manifest": "https://github.com/Netalu/DarkHeresy1E/system.json",
+  "download": "https://github.com/Netalu/DarkHeresy1E/archive/refs/heads/main.zip"
 }
