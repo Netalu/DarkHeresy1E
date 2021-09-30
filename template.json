@@ -2,6 +2,9 @@
     "Actor": {
       "types": ["hero", "pawn", "villain"],
       "templates": {
+        "weaponDisc": {
+          "damage": ""
+        },
         "background": {
           "biography": "",
           "hairColor": "blue"
@@ -38,20 +41,17 @@
       }
     },
     "Item": {
-      "types": ["weapon", "spell"],
-      "templates": {
-        "rarity": {
-          "rarity": "Common",
-          "price": 20
-        }
-      },
-      "weapon": {
-        "templates": ["rarity"],
-        "damage": 5
-      },
-      "spell": {
-        "templates": ["rarity"],
-        "cost": 2
+      "types":[
+        "rangedWeapon"
+      ],
+      "rangedWeapon":{
+        "damage": 0,
+        "damageType": "impact",
+        "reload": 0,
+        "range":0,
+        "ROF": 1,
+        "clip": 0
       }
+      
     }
     }

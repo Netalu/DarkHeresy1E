@@ -5,26 +5,25 @@
     "version": "0.0.1",
     "templateVersion": 2,
     "author": "Neralu",
+    "minimalCoreVersion": "0.8.9",
+    "compatibleCoreVersion": "0.8.9",
     "scripts": [
-        "scripts/system-script-1.js",
+        "scripts/system-script-1.js"
         
     ],
     "esmodules": [
-        
+        "dh1e.js"
     ],
     "styles": [
-        
+        "dh1e.css"
     ],
     "packs": [
        
       ],
-  "socket": false,
+    "languages": [],
   "initiative": "1d10",
   "gridDistance": 10,
   "gridUnits": "ft",
   "primaryTokenAttribute": "resources.wounds",
-  "secondaryTokenAttribute": "resources.ammo",
-  "url": "https://github.com/Netalu/DarkHeresy1E",
-  "manifest": "https://github.com/Netalu/DarkHeresy1E/system.json",
-  "download": "https://github.com/Netalu/DarkHeresy1E/archive/refs/heads/main.zip"
-}
+  "secondaryTokenAttribute": "resources.ammo"
+    }
